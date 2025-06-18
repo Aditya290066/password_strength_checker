@@ -7,7 +7,7 @@ A GUI-based tool built with Python and Tkinter to analyze and generate strong pa
 ### Result
 ![Result](p5.png)
 ### 🟥 Weak Password
-![Weak Password](p1.png)
+![Weak Password](p6.png)
 
 ### 🟧 Medium Password
 ![Medium Password](p3.png)
