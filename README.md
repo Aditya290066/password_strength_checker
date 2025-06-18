@@ -2,9 +2,22 @@
 
 A GUI-based tool built with Python and Tkinter to analyze and generate strong passwords. This tool helps users evaluate the strength of their passwords and provides actionable suggestions for improvement.
 
-![Screenshot](p5.png)
+## 🔐 Screenshots
 
-<!-- Replace with actual GIF/screenshot -->
+### 🟥 Weak Password
+![Weak Password](p1.png)
+
+### 🟧 Medium Password
+![Medium Password](p2.png)
+
+### 🟩 Strong Password
+![Strong Password](p3.png)
+
+### 💡 Suggestions for Improvement
+![Suggestions](p4.png)
+
+### ⚙️ Generated Strong Password
+![Generated Password](p5.png)
 
 ## Features
 - **Password Strength Analysis**: Classifies passwords as Weak, Medium, or Strong
