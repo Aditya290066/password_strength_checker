@@ -2,8 +2,8 @@
 
 A GUI-based tool built with Python and Tkinter to analyze and generate strong passwords. This tool helps users evaluate the strength of their passwords and provides actionable suggestions for improvement.
 
-[Screenshot]
-(p5.png)
+![Screenshot](p5.png)
+
 <!-- Replace with actual GIF/screenshot -->
 
 ## Features
